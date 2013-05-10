@@ -1,0 +1,1 @@
+Write a program that encodes the Bayesian network given below (NetworkToEncode.pdf) . Your program should take as input evidence regarding the patients behavior or symptoms, and compute the a-posterior probabilities of the disease variables, i.e., tuberculosis, lung-cancer, or bronchitis.
